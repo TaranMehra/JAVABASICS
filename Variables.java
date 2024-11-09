@@ -8,7 +8,7 @@
         int b=34;
         int c;
         c=a+b;
-        System.out.println(a);
+        System.out.println(c);
         
         return a;}
         public static void main(String args[]){
